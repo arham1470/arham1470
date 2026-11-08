@@ -40,7 +40,7 @@ Hey! I'm **Arham**, a software developer and technology enthusiast interested in
 - 🛡️ Learning penetration testing and security tools.
 - 🤖 Interested in AI-powered cybersecurity.
 - 🐧 Exploring Linux and open-source technologies.
-- 🎮 Gaming enthusiast.
+- 🎮 Online gaming enthusiast.
 
 **My philosophy:** Understand how systems work, discover how they can fail, and learn how to make them more secure.
 
@@ -69,13 +69,17 @@ Hey! I'm **Arham**, a software developer and technology enthusiast interested in
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arham1470&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arham1470&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=C9D1D9" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
+  <img src="./assets/overview.light.svg" width="100%" alt="GitHub overview statistics" />
+</picture>
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=arham1470&theme=dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg" />
+  <img src="./assets/languages.light.svg" width="100%" alt="Programming language statistics" />
+</picture>
 
 </div>
 
@@ -83,7 +87,17 @@ Hey! I'm **Arham**, a software developer and technology enthusiast interested in
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arham1470&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true&custom_title=ARHAM'S%20CONTRIBUTION%20GRAPH" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
+  <img src="./assets/contributions.light.svg" width="100%" alt="GitHub contribution history and streaks" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg" />
+  <img src="./assets/lifetime.light.svg" width="100%" alt="GitHub lifetime contribution activity" />
+</picture>
 
 </div>
 
@@ -123,7 +137,7 @@ I'm continuously working on development projects, exploring open-source security
 
 ```text
 ╔══════════════════════════════════════════╗
-║            SYSTEM MESSAGE                ║
+║             SYSTEM MESSAGE               ║
 ╠══════════════════════════════════════════╣
 ║  ACCESS GRANTED                          ║
 ║  THINK LIKE A DEVELOPER                  ║
