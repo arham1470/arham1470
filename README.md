@@ -1,75 +1,119 @@
+ <div align="center">
 
-<!-- MATRIX HACKER HEADER -->
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:001500,50:003300,100:00FF41&text=ARHAM%20%7C%20CYBER%20LAB&fontColor=00FF41&fontSize=40&animation=twinkling&fontAlignY=50&desc=SOFTWARE%20DEVELOPER%20%7C%20CYBERSECURITY%20ENTHUSIAST&descSize=13&descAlignY=70" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=ACA%20ARHAM&fontSize=55&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=SYSTEM%20DEVELOPER%20%7C%20CYBERSECURITY%20ENTHUSIAST&descAlignY=60&descSize=14"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=%5B+SYSTEM+INITIALIZED+%5D;Welcome+to+my+digital+world...;Software+Developer+%7C+Online+Gamer;Exploring+Cybersecurity+%26+Ethical+Hacking;Learning.+Building.+Securing." alt="Animated terminal introduction" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Initializing+system...;Welcome+to+my+digital+world;Software+Developer;Cybersecurity+Enthusiast;Learning+%7C+Building+%7C+Exploring" />
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/ENVIRONMENT-CYBERSPACE-00ff41?style=for-the-badge&labelColor=000000" />
+<img src="https://komarev.com/ghpvc/?username=arham1470&style=for-the-badge&color=00ff41&label=PROFILE+VISITORS" />
 
 </div>
 
 ---
 
-## `root@arham:~# whoami`
+## `01 // TERMINAL INTRO`
 
 ```bash
-[+] User: ACA ARHAM
-[+] Role: Software Developer
-[+] Interest: Cybersecurity & Ethical Hacking
-[+] Hobbies: Online Gaming
-[+] Status: Learning Something New
-[+] Mission: Build. Secure. Innovate.
+┌──(arham㉿cyberlab)-[~]
+└─$ whoami
+
+[+] Name       : Arham
+[+] Username   : arham1470
+[+] Role       : Software Developer
+[+] Interest   : Cybersecurity & Ethical Hacking
+[+] Hobby      : Online Gaming
+[+] Focus      : Web Development & Security
+[+] Status     : Always Learning
+
+└─$ echo "Welcome to my digital world!"
 ```
 
-## `root@arham:~# current_operations`
+## `02 // ABOUT ME`
 
-- Building modern web applications.
-- Exploring ethical hacking and penetration testing.
-- Learning AI-powered cybersecurity.
-- Experimenting with open-source projects.
-- Exploring automation and new technologies.
+Hey! I'm **Arham**, a software developer and technology enthusiast interested in exploring how the digital world works.
 
-## `root@arham:~# tech_stack`
+- 💻 Building modern web applications.
+- 🔐 Exploring cybersecurity and ethical hacking.
+- 🛡️ Learning penetration testing and security tools.
+- 🤖 Interested in AI-powered cybersecurity.
+- 🐧 Exploring Linux and open-source technologies.
+- 🎮 Gaming enthusiast.
+
+**My philosophy:** Understand how systems work, discover how they can fail, and learn how to make them more secure.
+
+## `03 // CYBERSECURITY TOOLKIT`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,php,python,git,github,vscode,linux&theme=dark" />
+### SECURITY & PENETRATION TESTING
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white" />
+
+### DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,php,python,git,github,vscode&theme=dark" />
+
+### ENVIRONMENT & TOOLS
+
+<img src="https://skillicons.dev/icons?i=linux,bash,windows,github&theme=dark" />
 
 </div>
 
-## `root@arham:~# security_toolkit`
+## `04 // GITHUB STATISTICS`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kali,linux,bash,python,docker&theme=dark" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arham1470&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arham1470&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=C9D1D9" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=arham1470&theme=dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 
 </div>
 
-## `root@arham:~# github_statistics`
+## `05 // CONTRIBUTION ACTIVITY`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000" />
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true&background=000000" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arham1470&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true&custom_title=ARHAM'S%20CONTRIBUTION%20GRAPH" />
 
 </div>
 
-## `root@arham:~# contribution_activity`
+## `06 // CONTRIBUTION SNAKE`
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&hide_border=true" />
+<img src="https://raw.githubusercontent.com/arham1470/arham1470/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
 
 </div>
 
-## `root@arham:~# connect`
+## `07 // FEATURED PROJECTS`
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=SYSTEM+VISITORS&color=00ff41&style=for-the-badge" />
+<a href="https://github.com/arham1470?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-00FF41?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+
+</div>
+
+I'm continuously working on development projects, exploring open-source security tools and experimenting with new technologies.
+
+## `08 // CONNECT WITH ME`
+
+<div align="center">
+
+<a href="https://github.com/arham1470">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" />
+</a>
 
 </div>
 
@@ -78,12 +122,19 @@
 <div align="center">
 
 ```text
-[ SYSTEM MESSAGE ]
-ACCESS GRANTED.
-KEEP LEARNING. KEEP BUILDING.
-THE DIGITAL WORLD NEVER SLEEPS.
+╔══════════════════════════════════════════╗
+║            SYSTEM MESSAGE                ║
+╠══════════════════════════════════════════╣
+║  ACCESS GRANTED                          ║
+║  THINK LIKE A DEVELOPER                  ║
+║  LEARN LIKE A HACKER                     ║
+║  BUILD LIKE AN ENGINEER                  ║
+║  SECURE THE DIGITAL WORLD                ║
+╚══════════════════════════════════════════╝
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003300,100:000000&height=100&section=footer" width="100%" />
+
+**`END OF TRANSMISSION // ARHAM1470`**
 
 </div>
