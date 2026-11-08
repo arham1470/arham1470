@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:030712,30:042b15,70:00ff41,100:0284c7&height=240&section=header&text=ARHAM%20%E2%9A%A1%20DEV%20LAB&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=CRAFTING%20SECURE%20SYSTEMS%20%E2%80%A2%20ETHICAL%20HACKING%20%E2%80%A2%20GAMING&descSize=13&descAlignY=60" alt="Arham Cyber Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050811,35:081f14,70:0b291a,100:050811&height=250&section=header&text=ARHAM%20//%20CYBER%20LAB&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%20%7C%20%20CYBERSECURITY%20ENTHUSIAST%20%20%7C%20%20ONLINE%20GAMER&descSize=15&descAlignY=62" alt="Arham Cyber Lab Header Banner" />
 
 <!-- ANIMATED TYPING HEADER -->
 <a href="https://github.com/arham1470">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=%5B%2B%5D+INITIALIZING+SECURE+ENVIRONMENT...;Welcome+to+Arham's+Cyber+Lab...;Software+Developer+%E2%80%A2+Full+Stack+Builder;Cybersecurity+%26+Ethical+Hacking+Enthusiast;Online+Gamer+%E2%80%A2+Lifelong+Explorer;Understand.+Build.+Secure." alt="Animated Terminal Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=%5B%2B%5D+INITIALIZING+SECURE+ENVIRONMENT...;Welcome+to+Arham's+Cyber+Lab...;Software+Developer+%7C+Full+Stack+Builder;Cybersecurity+%26+Ethical+Hacking+Enthusiast;Online+Gamer+%7C+Lifelong+Explorer;Understand.+Build.+Secure." alt="Animated Terminal Typing" />
 </a>
 
 <br/>
