@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:050811,25:003816,65:00FF41,100:0284c7&height=240&section=header&text=%E2%9A%A1%20ARHAM%20%7C%20CYBER%20NEXUS&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E3%80%90+SOFTWARE+ARCHITECT+%E2%80%A2+SECURITY+ANALYST+%E2%80%A2+ONLINE+GAMER+%E3%80%91&descSize=13&descAlignY=58" alt="Arham Cyber Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:030712,30:042b15,70:00ff41,100:0284c7&height=240&section=header&text=ARHAM%20%E2%9A%A1%20DEV%20LAB&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=CRAFTING%20SECURE%20SYSTEMS%20%E2%80%A2%20ETHICAL%20HACKING%20%E2%80%A2%20GAMING&descSize=13&descAlignY=60" alt="Arham Cyber Banner" />
 
 <!-- ANIMATED TYPING HEADER -->
 <a href="https://github.com/arham1470">
